@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "97283db40c2f9716",
+    "type": "split",
+    "children": [
+      {
+        "id": "998f0654de40348f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8262f1309331d250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continental Brands Offices/Continental Brands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continental Brands"
+            }
+          },
+          {
+            "id": "d4d10437a230406f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continental Brands Offices/Session Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Plan"
+            }
+          },
+          {
+            "id": "dbc7cea63d689a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49a6379a568c2820",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e0f66a2bc689d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c72ebd20cc0544e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4e4fc872c6afad4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8bd1605e711e600c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82a804125ffa3d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "108636c182c62394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d556fd20df45c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Loose Outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Loose Outline"
+            }
+          },
+          {
+            "id": "5d4f64e11002311d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Loose Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Loose Outline"
+            }
+          },
+          {
+            "id": "f96f744b800ebd39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7326639232dc9ae5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Loose Outline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Loose Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8262f1309331d250",
+  "lastOpenFiles": [
+    "Continental Brands Offices/Session Plan.md",
+    "Outline.md",
+    "Continental Brands Offices/Continental Brands.md",
+    "zoom2u/job interview.md",
+    "National Foods/Carl Mosenberg.md",
+    "National Foods/Camden Court.md",
+    "bars/session plan.md",
+    "bars/Mega 9 Motel.md",
+    "bars/Afterlife.md",
+    "bars",
+    "night market/busker.md",
+    "Continental Brands Offices",
+    "hot zone/Arnold the Bounty Hunting Sniper.md",
+    "hot zone/session plan.md",
+    "National Foods/Cindy Mancheski.md",
+    "Rules/spider drone.md",
+    "Rules/Bullet Bender Sheet.png",
+    "National Foods/Cindy Sheet.png",
+    "safehouse/session plan.md",
+    "Rules/RTG-CPR-DLC-HotPursuit.pdf",
+    "hot zone/Untitled.md",
+    "hot zone",
+    "Paris Shoppinh",
+    "National Foods/National Foods.md",
+    "National Foods/Executive Zone.md",
+    "National Foods/LovePaks.md",
+    "safehouse/glitch table.md",
+    "Rules/Poison.md",
+    "atlantis/Atlantis 1.md",
+    "LovePak.md",
+    "drones.md",
+    "zoom2u/zoom2u in NC corporate zone.md",
+    "zoom2u/zoom2u.md",
+    "safehouse",
+    "Rules/RTG-CPR-CharacterSheet-Fillable.pdf",
+    "Rules/Unconfirmed 28594.crdownload",
+    "Rules/quickhacks.pdf",
+    "Rules/quickhacks.png",
+    "Rules/neuro.png",
+    "Rules/cemk edgerunners folios.pdf",
+    "Rules/ganger.jpg",
+    "Rules/pyro.jpg",
+    "Rules/IMG_0408.jpg",
+    "Rules/IMG_0406.jpg"
+  ]
+}

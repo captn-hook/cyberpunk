@@ -1,0 +1,1 @@
+Atlantis might host some of the most underhanded deals in Night City, but it also keeps up appearances. If you want to get in without being in the VIP club, you better dress right and be willing to wait in line most of the day. 
