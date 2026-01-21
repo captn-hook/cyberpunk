@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continental Brands Offices/Continental Brands.md",
+                "file": "Continental Brands Offices/Session Plan 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Continental Brands"
+              "title": "Session Plan 2"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continental Brands Offices/Session Plan.md",
+                "file": "Continental Brands Offices/Continental Brands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Plan"
+              "title": "Continental Brands"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,20 +189,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8262f1309331d250",
+  "active": "d4d10437a230406f",
   "lastOpenFiles": [
-    "Continental Brands Offices/Session Plan.md",
+    "Continental Brands Offices/Session Plan 2.md",
     "Outline.md",
     "Continental Brands Offices/Continental Brands.md",
+    "Continental Brands Offices/Session Plan 1.md",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "zoom2u/job interview.md",
     "National Foods/Carl Mosenberg.md",
     "National Foods/Camden Court.md",
@@ -231,14 +237,9 @@
     "LovePak.md",
     "drones.md",
     "zoom2u/zoom2u in NC corporate zone.md",
-    "zoom2u/zoom2u.md",
     "safehouse",
-    "Rules/RTG-CPR-CharacterSheet-Fillable.pdf",
-    "Rules/Unconfirmed 28594.crdownload",
-    "Rules/quickhacks.pdf",
     "Rules/quickhacks.png",
     "Rules/neuro.png",
-    "Rules/cemk edgerunners folios.pdf",
     "Rules/ganger.jpg",
     "Rules/pyro.jpg",
     "Rules/IMG_0408.jpg",

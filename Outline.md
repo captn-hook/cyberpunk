@@ -24,3 +24,4 @@ While in Europe, between all the investor meetings, Ciorse gets to meet Cindy's 
 
 With their bonus in hand after retrieving Cindy, they go look for somewhere to spend it, as well as looking for the Bullet Bender. They head out to the Badlands on a tip from Azmats family, finding a big nomad gathering and a gun store. Azamat wins some money from fighting a robot, and then the gang heads to the Afterlife. They schmooz their way in, and happen across the sniper, drinking. They rough him up, getting all of them kicked out of the bar. Then the gang turns him into Cindy, who takes his card and sends him on his way.
 
+Raided the Oasis Foods with a "peaceful" protest
