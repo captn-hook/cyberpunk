@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "227d30882d0d4d06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "dbc7cea63d689a88",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d10437a230406f",
+  "active": "227d30882d0d4d06",
   "lastOpenFiles": [
     "Continental Brands Offices/Session Plan 2.md",
     "Outline.md",
