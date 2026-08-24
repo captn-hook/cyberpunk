@@ -4,65 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "998f0654de40348f",
+        "id": "b0fc24abe9f2b0e1",
         "type": "tabs",
         "children": [
           {
-            "id": "8262f1309331d250",
+            "id": "6f77bdcb7fa929ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continental Brands Offices/Session Plan 2.md",
+                "file": "Session Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Plan 2"
+              "title": "Session Plan"
             }
           },
           {
-            "id": "d4d10437a230406f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continental Brands Offices/Continental Brands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continental Brands"
-            }
-          },
-          {
-            "id": "227d30882d0d4d06",
+            "id": "cc4dc915831a129c",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.11.5"
+                "currentVersion": "1.12.7"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "dbc7cea63d689a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outline"
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,25 +173,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "227d30882d0d4d06",
+  "active": "cc4dc915831a129c",
   "lastOpenFiles": [
-    "Continental Brands Offices/Session Plan 2.md",
     "Outline.md",
+    "Session Plan.md",
+    "abduction/Petrochem secret base.md",
+    "abduction",
     "Continental Brands Offices/Continental Brands.md",
+    "Continental Brands Offices/Session Plan 2.md",
     "Continental Brands Offices/Session Plan 1.md",
-    "Untitled.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
+    "Continental Brands Offices/Session Plan.md",
+    "Rules/RTG-CPR-DLC-HotPursuit.pdf",
+    "Rules/DIRECT CONNECTION NETRUNNING.md",
     "zoom2u/job interview.md",
     "National Foods/Carl Mosenberg.md",
     "National Foods/Camden Court.md",
@@ -236,7 +210,6 @@
     "Rules/Bullet Bender Sheet.png",
     "National Foods/Cindy Sheet.png",
     "safehouse/session plan.md",
-    "Rules/RTG-CPR-DLC-HotPursuit.pdf",
     "hot zone/Untitled.md",
     "hot zone",
     "Paris Shoppinh",
@@ -245,11 +218,10 @@
     "National Foods/LovePaks.md",
     "safehouse/glitch table.md",
     "Rules/Poison.md",
-    "atlantis/Atlantis 1.md",
-    "LovePak.md",
-    "drones.md",
-    "zoom2u/zoom2u in NC corporate zone.md",
     "safehouse",
+    "Rules/RTG-CPR-CharacterSheet-Fillable.pdf",
+    "Rules/Unconfirmed 28594.crdownload",
+    "Rules/quickhacks.pdf",
     "Rules/quickhacks.png",
     "Rules/neuro.png",
     "Rules/ganger.jpg",
